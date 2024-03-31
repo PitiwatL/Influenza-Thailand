@@ -1,6 +1,6 @@
 # Influenza-Thailand
 ## Requirements
-The code has been tested with PyTorch 1.10 and Cuda 10.2.
+The code has been tested on GTX3050 locally with PyTorch 1.12 and Cuda 11.3.
 ```Shell
 conda create --name influenza python=3.7
 conda activate influenza
